@@ -1,1 +1,1 @@
-# cnc-optimizer
+# cnc-optimizer-2d
